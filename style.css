@@ -1,0 +1,25 @@
+body{
+    background-color: #C9EEFF;
+}
+
+hr{
+    
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #66347F;
+    border-width: 5px;
+}
+
+img{
+    height: 50px;
+}
+
+h1{
+    color:#FFACAC;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color:#0E8388;
+}
